@@ -1,0 +1,16 @@
+*
+!/**/
+!*.*
+*.out
+test.*
+temp.*
+gen.*
+in.in
+.vscode
+.zed
+*.bin
+debug/
+target/
+Cargo.lock
+**/*.rs.bk
+*.pdb
