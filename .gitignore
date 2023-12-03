@@ -5,7 +5,6 @@
 test.*
 temp.*
 gen.*
-in.in
 .vscode
 .zed
 *.bin
